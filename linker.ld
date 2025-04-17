@@ -1,4 +1,4 @@
-/* Linker script for the Stellaris LM3S6965EVB (256K Flash, 64K SRAM (doesn't need refresh like DRAM, faster, lower power) (64 * 1024 bytes = 65,536 bytes)) */
+/* Linker script for the Stellaris LM3S6965EVB (256K Flash, 64K SRAM (static RAM doesn't need refresh like DRAM, faster, lower power) (64 * 1024 bytes = 65,536 bytes)) */
 /* Adapted for QEMU's lm3s6965evb model */
 
 /* Define Memory Regions */
